@@ -1,0 +1,47 @@
+<table
+                  class="table table-bordered table-hover margin-top-15"
+                  id="sample_1"
+                >
+                  <thead>
+                    <tr>
+                      <th>ID</th>
+                      <th>MoocCode</th>
+                      <th>DeliveryCode</th>
+                      <th>SealCount</th>
+                      <th>SealDes</th>
+                      <th>LotNumber</th>
+                      <th>#</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    <tr *ngFor="let item of data">
+                      <td>{{ item.id }} 1 </td>
+                      <td style="text-align: center">
+                        {{ item.moocCode }}
+                      </td>
+                      <td>
+                        {{ item.deliveryCode }}
+                      </td>
+                      <td>
+                        {{ item.sealCount }}
+                      </td>
+                      <td>
+                        {{ item.sealDes }}
+                      </td>
+                      <td>
+                        {{ item.lotNumber }}
+                      </td>
+                      
+                      <td class="text-center">
+
+                        <button routerLink="/weight/update/{{item.id}}">update</button>
+                        <!-- <button  (click)="deleteWeight(item.id)">
+                          xóa
+                        </button> -->
+                        
+                       
+                      </td>
+                      
+                    </tr>
+                  </tbody>
+                </table>

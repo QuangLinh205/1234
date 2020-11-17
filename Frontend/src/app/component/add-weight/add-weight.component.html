@@ -1,0 +1,18 @@
+<div class="example-container mat-elevation-z8">
+    <form [formGroup]="weightForm" (ngSubmit)="onFormSubmit(weightForm.value)">
+
+        <input matInput placeholder="deliveryCode" formControlName="deliveryCode">
+
+        <input matInput placeholder="moocCode" formControlName="moocCode">
+
+        <input matInput placeholder="sealCount" formControlName="sealCount" type="number">
+        
+        <input matInput placeholder="sealDes" formControlName="sealDes">
+
+        <input matInput placeholder="lotNumber" formControlName="lotNumber">
+
+        <div class="button-row">
+            <button type="submit" [disabled]="!weightForm.valid" mat-flat-button color="primary">save</button>
+        </div>
+    </form>
+</div>

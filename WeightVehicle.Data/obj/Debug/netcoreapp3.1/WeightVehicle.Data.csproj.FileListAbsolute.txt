@@ -1,0 +1,12 @@
+C:\Users\ADMIN\source\repos\WeightVehicle\WeightVehicle.Data\bin\Debug\netcoreapp3.1\WeightVehicle.Data.deps.json
+C:\Users\ADMIN\source\repos\WeightVehicle\WeightVehicle.Data\bin\Debug\netcoreapp3.1\WeightVehicle.Data.dll
+C:\Users\ADMIN\source\repos\WeightVehicle\WeightVehicle.Data\obj\Debug\netcoreapp3.1\WeightVehicle.Data.csprojAssemblyReference.cache
+C:\Users\ADMIN\source\repos\WeightVehicle\WeightVehicle.Data\obj\Debug\netcoreapp3.1\WeightVehicle.Data.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\WeightVehicle\WeightVehicle.Data\obj\Debug\netcoreapp3.1\WeightVehicle.Data.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\WeightVehicle\WeightVehicle.Data\bin\Debug\netcoreapp3.1\WeightVehicle.Data.runtimeconfig.json
+C:\Users\ADMIN\source\repos\WeightVehicle\WeightVehicle.Data\bin\Debug\netcoreapp3.1\WeightVehicle.Data.runtimeconfig.dev.json
+C:\Users\ADMIN\source\repos\WeightVehicle\WeightVehicle.Data\obj\Debug\netcoreapp3.1\WeightVehicle.Data.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\WeightVehicle\WeightVehicle.Data\bin\Debug\netcoreapp3.1\WeightVehicle.Data.pdb
+C:\Users\ADMIN\source\repos\WeightVehicle\WeightVehicle.Data\obj\Debug\netcoreapp3.1\WeightVehicle.Data.dll
+C:\Users\ADMIN\source\repos\WeightVehicle\WeightVehicle.Data\obj\Debug\netcoreapp3.1\WeightVehicle.Data.pdb
+C:\Users\ADMIN\source\repos\WeightVehicle\WeightVehicle.Data\obj\Debug\netcoreapp3.1\WeightVehicle.Data.csproj.CoreCompileInputs.cache
